@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MesagenToast</string>
+    <string name="btn_gerar_toast">Gerar Toast</string>
+</resources>
